@@ -1,0 +1,14 @@
+.image {
+    object-fit: cover;
+}
+
+.carousel {
+    background: white;
+    width: 600px;
+    height: 400px;
+}
+
+.carouselLoading {
+    width: 600px;
+    margin-top: 181px;
+}

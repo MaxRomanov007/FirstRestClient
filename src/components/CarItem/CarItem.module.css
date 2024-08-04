@@ -1,0 +1,22 @@
+.carItemContainer {
+    border: 1px solid black;
+    padding: 25px;
+    width: 60vw;
+    min-width: 400px;
+    height: 250px;
+}
+
+.carImage {
+    object-fit: cover;
+    aspect-ratio: 1;
+}
+
+.carItemContentContainer {
+    height: 200px;
+    width: 100%;
+    margin-left: 15px;
+}
+
+.carItemContentFooter {
+    padding: 0
+}

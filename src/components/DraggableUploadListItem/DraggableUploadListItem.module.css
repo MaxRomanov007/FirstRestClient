@@ -1,0 +1,3 @@
+.isDragging a {
+    pointer-events: none;
+}
